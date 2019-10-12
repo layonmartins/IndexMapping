@@ -4,8 +4,9 @@ Given a limited range array contains both positive and non-positive numbers, i.e
 
 Since range is limited, we can use index mapping (or trivial hashing). We use values as the index in a big array. Therefore we can search and insert elements in O(1) time.
 
-### Output
+#### Output:
 ```
+################## Print myArray[][] ##################
 0 -> 0[ ] 1[ ] 2[ ] 3[ ] 4[ ] 5[ ] 6[ ] 7[ ] 8[ ] 9[ ] 
 1 -> 0[ ] 1[ ] 2[ ] 3[ ] 4[ ] 5[ ] 6[ ] 7[ ] 8[ ] 9[ ] 
 
